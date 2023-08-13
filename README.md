@@ -1,6 +1,6 @@
 # Sale Price Prediction Project
 
-Welcome to the Sale Price Prediction using Python Project repository! This project is focused on predicting sale prices for real estate properties using machine learning techniques. Whether you're a data enthusiast, a real estate professional, or just curious about predictive analytics, this project offers valuable insights into predicting property prices accurately.
+Welcome to the Sale Price Prediction using Python Project repository! This project is focused on predicting sale prices for real estate properties using machine learning techniques. Whether you're a data enthusiast, a real estate professional, or just curious about predictive analytics, this project offers valuable insights into predicting prices accurately.
 
 ## Key Features:
 
