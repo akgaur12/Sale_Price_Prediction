@@ -32,6 +32,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements:
 
-We appreciate and acknowledge the valuable resources, datasets, and tutorials that contributed to the development of this project.
-
-Feel free to explore, learn, and contribute to this project. Together, we can improve the accuracy of sale price predictions and enhance our understanding of machine learning in real estate.
+We appreciate and acknowledge the valuable resources, datasets provided by the Oasis Infobyte to the development of this project.
